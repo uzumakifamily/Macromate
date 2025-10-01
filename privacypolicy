@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>MacroMate Privacy Policy</title>
+</head>
+<body>
+  <h1>MacroMate Privacy Policy</h1>
+  <p>Last updated: [Insert Date]</p>
+  <h2>Overview</h2>
+  <p>MacroMate is a browser extension that helps users record and replay repetitive web tasks. We value your privacy and designed this extension with a local-first, privacy-by-default approach.</p>
+  <h2>Data Collection</h2>
+  <ul>
+    <li>MacroMate does not collect, transmit, or sell personal data.</li>
+    <li>Recorded macros are stored locally in your browser.</li>
+    <li>Sensitive fields (passwords) are masked and never uploaded.</li>
+  </ul>
+  <h2>Permissions</h2>
+  <p>MacroMate requests only the permissions needed to perform automation functionality. These are used only for recording and replaying macros.</p>
+  <h2>Contact</h2>
+  <p>Email: support@macromate.app</p>
+</body>
+</html>
